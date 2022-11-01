@@ -6,7 +6,7 @@ I'm a Spanish software developer student willing to become a fullstack developer
 
 # Top Repositories
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/valle-code/Boolean">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valle-code&repo=Boolean&theme=tokyonight" />
   </a><a href="https://github.com/valle-code/Bingo">
@@ -22,5 +22,5 @@ I'm a Spanish software developer student willing to become a fullstack developer
 
 ---
 
-Contact: <a href="https://www.linkedin.com/in/daniel-valle-aimiuwu-655065235/">Linkedin</a>,  <a href="mailto:danivalle.code@gmail.com">Email</a> 
+<p align: "center">Contact: <a href="https://www.linkedin.com/in/daniel-valle-aimiuwu-655065235/">Linkedin</a>,  <a  href="mailto:danivalle.code@gmail.com">Email</a></p> 
 
