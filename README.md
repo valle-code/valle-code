@@ -9,8 +9,8 @@
   # Top Repositories
 
   <p align="center">
-    <a href="https://github.com/valle-code/Boolean">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=valle-code&repo=Boolean&theme=tokyonight" />
+    <a href="">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=valle-code&repo=Bingo&theme=tokyonight" />
     </a><a href="https://github.com/valle-code/Bingo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=valle-code&repo=Bingo&theme=tokyonight" />
     </a>
